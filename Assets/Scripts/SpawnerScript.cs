@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class SpawnerScript : MonoBehaviour
 {
+    
+    [SerializeField]
     public GameObject[] objectsToSpawn; //prefab of object wich created
     public float[] spawnIntervals;
     void Start()
