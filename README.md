@@ -20,3 +20,10 @@ Inspired by Flappy Bird and Nyan Cat, this game combines fast-paced controls, dy
 
 ## 💡 Notes
 This project started as an experiment in user feedback, UI interactivity, and sound layering.
+## 📸 Screenshots
+
+### 🎮 Main Menu  
+![Main Menu](main-menu.png)
+
+### 🕹️ Control Tutorial  
+![Tutorial](start.png)
