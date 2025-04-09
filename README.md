@@ -21,6 +21,12 @@ Inspired by Flappy Bird and Nyan Cat, this game combines fast-paced controls, dy
 ## 💡 Notes
 This project started as an experiment in user feedback, UI interactivity, and sound layering.
 ## 📸 Screenshots
+# 🎮 Nyan Flap — 2D Chaos Cat Game
+
+[![Play Now on itch.io](https://img.shields.io/badge/Play%20Now-itch.io-red?style=for-the-badge&logo=itch-io)](https://anahiell.itch.io/nyan-flap-2d-chaos-cat-game)
+
+A chaotic, fast-paced arcade game inspired by Flappy Bird and Nyan Cat.  
+Fly through absurd levels, guided by meme music, cursed faces, and UI that teaches you controls by disappearing.  
 
 ### 🎮 Main Menu  
 ![Main Menu](main-menu.png)
